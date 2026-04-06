@@ -4,6 +4,7 @@
 A simple and modern iOS application built using SwiftUI that demonstrates authentication, local storage, custom UI components, and file handling without relying on external APIs.
 
 🚀 Features
+
 🔐 Authentication
 Sign Up & Sign In functionality
 User data stored locally using Core Data
@@ -23,6 +24,7 @@ Smooth animations
 Custom reusable components
 Tab-based navigation
 Dynamic lists
+
 🛠 Tech Stack
 SwiftUI
 UIKit (Bridging where required)
