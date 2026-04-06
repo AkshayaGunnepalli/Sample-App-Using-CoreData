@@ -56,3 +56,6 @@ PhotosUI / UIDocumentPicker
 QuickLook
 
 MVVM Architecture
+
+clone with HTTP : https://gitlab.com/e-commerce6424014/e-commerce.swiftui.demo.git
+clone with SSH : git@gitlab.com:e-commerce6424014/e-commerce.swiftui.demo.git
